@@ -1,4 +1,4 @@
-# health
+# platform-health
 
 Short description: repository prepared for GitHub upload.
 
