@@ -1,0 +1,1 @@
+../../scripts/update-helmcharts.sh

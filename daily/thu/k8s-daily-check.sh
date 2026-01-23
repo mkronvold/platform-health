@@ -1,0 +1,1 @@
+../../scripts/k8s-daily-check.sh

@@ -1,0 +1,1 @@
+../../scripts/loki-daily-check.sh

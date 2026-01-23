@@ -1,0 +1,1 @@
+../../scripts/update-container-images.sh

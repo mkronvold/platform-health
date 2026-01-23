@@ -1,0 +1,1 @@
+../../scripts/backup-verification.sh
